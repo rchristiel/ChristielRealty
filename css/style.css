@@ -1,1 +1,263 @@
 
+div.navigation 
+{
+  width: 100%;
+  background-color: blue;
+	text-align: center;
+}
+div.vids
+{
+	width: 100%;
+	padding: 2px;
+	background-color: lightblue;
+	padding-left: 30px;
+	padding-top: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	border: solid black 20px;
+	float:left;
+}
+div.vids video
+{
+	width: 30%;
+	height:400px;
+	padding-left: 30px;
+	padding-top: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	border: solid black 20px;
+	float:left;
+	background-color: yellow;
+	margin-right: 60px;
+	margin-left: 60px;
+	margin-top: 60px;
+}
+video 
+{ 
+  width: 100%;
+	height:400px;
+	float: left;
+  border-radius: 400px;
+}
+div.indexPic1 img
+{
+	width: 400px;
+	height:400px;
+	padding-left: 30px;
+	padding-top: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	border: solid black 20px;
+  border-radius: 400px;
+	background-color: red;
+	float: left;
+	margin-left: 60px;
+	margin-top: 60px;
+	margin-right: 60px;
+}
+body 
+{
+  background-color: #ffffcc;
+  margin-left: 10px;
+  margin-right: 10px;
+	margin-bottom: 200px;
+	margin-top: 20px;
+}
+h1 
+{
+  font-style: normal;
+  color: white;
+  text-align: center;
+}
+div.first
+{
+	width: 100%;
+	padding-top: 10px;
+	background-color: blue;
+  padding-top: 30px;
+}
+div.main
+{
+	width: 100%;
+	padding: 20px;
+	background-color: black;
+	float: left;
+}
+div.main p
+{
+	
+	font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+  color: white;
+	text-align: left;
+	font-size: 20px;
+	margin-top: 10px;
+}	
+div.pics
+	{width: 60%;
+	padding: 20px;
+	background-color: blueviolet;
+	}
+div.indexPic2 img 
+{
+	float: left;
+	width: 400px;
+  height: 400px;
+	padding-left: 30px;
+	padding-top: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	border: solid black 20px;
+  border-radius: 400px;
+	background-color: blue;
+	margin-left: 30px;
+	margin-right: 60px;
+	margin-top: 60px;
+	margin-bottom: 100px;
+}
+
+div.map {
+	height: 400px;
+	width: 400px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;;
+}
+div.button {
+    background-color: #008CBA;
+    border: none;
+	  border-radius: 12px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+div.recentphoto1 img
+{ 
+	width: 400px;
+	height: 400px;
+	float:left;
+  border-radius: 400px;
+}
+div.recentphoto2 img
+{ 
+	width: 400px;
+	height: 400px;
+	float: left;
+  border-radius: 400px;
+	
+}
+div.recentphoto3 img
+{ 
+	width: 400px;
+	height: 400px;
+	float: left;
+  border-radius: 400px;
+}
+div.Education li 
+{
+  display: initial;
+  align-content: initial ;
+	font-size: 25px;
+}
+div.skills li 
+{
+  display: block;
+  text-align: initial;
+  font-size: 25px;
+}
+div.experience li 
+{
+  display: initial;
+	font-size: 25px;
+}
+li 
+{
+  display: inline;
+}
+ul li a 
+{
+  text-decoration: none;
+  padding: .10em 10em;
+  color: purple;
+  background-color: #a19999;
+  margin-top: 30px;
+}
+ul li a:hover 
+{
+  background-color: #f3362f;
+  color: black;
+} 
+p 
+{
+	font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+	text-align: left;
+  color: black;
+	padding-bottom: 10px;
+	font-size: 25px;
+
+}
+div.education p 
+{
+	font-family: 'Open Sans', sans-serif;
+  	font-style: normal;
+    	color: black;
+	text-align: left;
+	font-size: 25px;
+}
+h2 
+{
+	font-family: 'Great Vibes', script;
+  font-style: normal;
+	text-align: center;
+  color: black;
+	padding-top: 30px;
+	font-size: 40px;
+	padding-bottom: 30px;
+
+}
+h3 
+{
+	font-family: 'Great Vibes', normal;
+  font-style: normal;
+	text-align: center;
+  color: black;
+	padding-top: 30px;
+	font-size: 30px;
+	padding-bottom: 30px;
+}
+
+div.myself
+{
+	width: 100%;
+	padding: 20px;
+	background-color: #ffffcc;
+}
+div.date
+{
+	float: left;
+	padding-left: 100px;
+}
+div.city p
+{
+	float: left;
+	padding-left: 100px;
+}
+footer
+{
+	float:left;
+	font-size: 15px;
+
+
+}
+div.passion p
+{
+	text-align: center;
+	font-size: 25px;
+
+}
