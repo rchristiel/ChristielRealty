@@ -2,10 +2,10 @@ var map;
 var marker;
 var current;
 var chicago = {lat: 41.887855, lng: -87.630347};
-var Dubai = {lat: 25.2048, lng: 55.2708};
-var LosAngelas = {lat: 34.0522, lng: -118.2437};
+var dubai = {lat: 25.2048, lng: 55.2708};
+var losAngelas = {lat: 34.0522, lng: -118.2437};
 var chicago = {lat: 41.8781, lng:  -87.6298};
-var places = ["Chicago", "Dubai", "LosAngelas", "Chicago"];
+var places = ["chicago", "dubai", "losAngelas", "chicago"];
 
 function initMap() {
   current = {lat: 41.887855, lng: -87.630347};
