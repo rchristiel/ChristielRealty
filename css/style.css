@@ -196,7 +196,7 @@ li
 ul li a 
 {
   text-decoration: none;
-  padding: .10em 10em;
+  padding: .10em .10em;
   color: purple;
   background-color: #a19999;
   margin-top: 30px;
